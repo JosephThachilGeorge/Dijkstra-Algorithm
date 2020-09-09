@@ -42,13 +42,13 @@ Final Stage: 9
 <img width="300" alt="java 8 and prio java 8  array review example" src="https://github.com/JosephThachilGeorge/dijkstra-algorithm/blob/master/10.JPG">
 
 
-#Output:
+**Output:**
 
-A
+*A*
 
-F
+*F*
 
-H
+*H*
 
-E
+*E*
 
