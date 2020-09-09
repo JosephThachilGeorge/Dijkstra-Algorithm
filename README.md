@@ -3,7 +3,7 @@
 Input Graph
 
 <img width="450" alt="java 8 and prio java 8  array review example" src="https://github.com/JosephThachilGeorge/dijkstra-algorithm/blob/master/1.JPG">
-...........................................................................................................................................................
+
 Stage: 1
 
 <img width="450" alt="java 8 and prio java 8  array review example" src="https://github.com/JosephThachilGeorge/dijkstra-algorithm/blob/master/2.JPG">
