@@ -54,7 +54,7 @@ public class Main {
             }
         }
 
-        throw new RuntimeException("Du Idiot. Kannst nicht mal einen richtigen Namen eingeben.");
+        throw new RuntimeException("Error");
     }
 
     /**
