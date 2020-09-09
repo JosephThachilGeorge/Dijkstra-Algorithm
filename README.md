@@ -2,19 +2,19 @@
 
 Input Graph
 
-<img width="300" alt="java 8 and prio java 8  array review example" src="https://github.com/JosephThachilGeorge/dijkstra-algorithm/blob/master/1.JPG">
+<img width="450" alt="java 8 and prio java 8  array review example" src="https://github.com/JosephThachilGeorge/dijkstra-algorithm/blob/master/1.JPG">
 
 Stage: 1
 
-<img width="300" alt="java 8 and prio java 8  array review example" src="https://github.com/JosephThachilGeorge/dijkstra-algorithm/blob/master/2.JPG">
+<img width="450" alt="java 8 and prio java 8  array review example" src="https://github.com/JosephThachilGeorge/dijkstra-algorithm/blob/master/2.JPG">
 
 Stage: 2
 
-<img width="300" alt="java 8 and prio java 8  array review example" src="https://github.com/JosephThachilGeorge/dijkstra-algorithm/blob/master/3.JPG">
+<img width="450" alt="java 8 and prio java 8  array review example" src="https://github.com/JosephThachilGeorge/dijkstra-algorithm/blob/master/3.JPG">
 
 Stage: 3
 
-<img width="300" alt="java 8 and prio java 8  array review example" src="https://github.com/JosephThachilGeorge/dijkstra-algorithm/blob/master/4.JPG">
+<img width="450" alt="java 8 and prio java 8  array review example" src="https://github.com/JosephThachilGeorge/dijkstra-algorithm/blob/master/4.JPG">
 
 Stage: 4
 
