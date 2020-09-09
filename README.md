@@ -1,4 +1,4 @@
-# dijkstra-algorithm
+# Dijkstra-algorithm
 
 Input Graph
 
@@ -45,7 +45,10 @@ Final Stage: 9
 #Output:
 
 A
+
 F
+
 H
+
 E
 
